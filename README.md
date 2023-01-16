@@ -32,4 +32,4 @@ The green button will say propose changes and click on it.
 
 Then only click the green button "Create pull request".
 
-Lastly click "Close pull request" button.
+Lastly click "Close pull request" button..
